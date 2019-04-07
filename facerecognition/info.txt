@@ -1,0 +1,3 @@
+The face.py has mainly recognises the faces among given faces 
+#thanks to AdamGeitgey for his exceptional contribution of face_recognition
+#In face.py we have used the same code given by AdamGeitgey for the face recognition
