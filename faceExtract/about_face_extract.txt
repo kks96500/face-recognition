@@ -1,0 +1,3 @@
+In the program face_extract.py we are extracting images from the image that is being captured by the camera during the 0.3s interval time and then storing the image in Extracted folder which will be used to recognise faces.
+
+
