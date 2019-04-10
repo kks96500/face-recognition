@@ -1,0 +1,1 @@
+In the folder face recognition we have a folder name dataset which contains the data in which model has been trained(Face_recognition.h5) ,Extracted is the folder where extracted images from the picture taken from the camera will be stored which is to be recognised by the file recognise_extracted_images.py.
